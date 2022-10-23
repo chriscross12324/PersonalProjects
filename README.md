@@ -12,7 +12,7 @@ The classic 'Rock Paper Scissors' game has been brought to Android.
   3) XML
 
 
-###### Goal
+###### Goals
   1) Learn the fundamentals of programming (if/else, switch, rand, delay, etc.)
   2) Develop very basic User Interface & User Experience skills
   3) Create a simple game that anyone can play and understand
@@ -34,21 +34,22 @@ The classic 'Rock Paper Scissors' game has been brought to Android.
 
 
 
-## Pebble
+## [Pebble](https://play.google.com/store/apps/details?id=com.simple.chris.pebble)
 ###### Description
-The classic 'Rock Paper Scissors' game has been brought to Android.
+Whether you are looking at colours for your next project or just like looking at them, Pebble has all the gradients for you!
 
 
 ###### Technologies
   1) Android Studio
-  2) Java
+  2) Java & Kotlin
   3) XML
+  4) Google Firebase
 
 
-###### Goal
-  1) Learn the fundamentals of programming (if/else, switch, rand, delay, etc.)
-  2) Develop very basic User Interface & User Experience skills
-  3) Create a simple game that anyone can play and understand
+###### Goals
+  1) Expand on my understanding of programming concepts
+  2) Refine personal UI/UX guidlines
+  3) Connect to external databases to sync data among clients
 
 ###### Images
 **Initial Release Design**  
