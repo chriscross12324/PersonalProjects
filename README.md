@@ -72,13 +72,13 @@ Whether you are looking at colours for your next project or just like looking at
 ###### Videos
 
 **Gradient Grid**  
-<img src="https://user-images.githubusercontent.com/24950701/197418568-49eb34c7-45a1-410a-9a73-d234da512e53.mp4" width="150">
+![](https://user-images.githubusercontent.com/24950701/197418568-49eb34c7-45a1-410a-9a73-d234da512e53.mp4)
 
 **Gradient Preview**  
-<img src="https://user-images.githubusercontent.com/24950701/197418568-49eb34c7-45a1-410a-9a73-d234da512e53.mp4" width="150">
+![](https://user-images.githubusercontent.com/24950701/197419251-24b43834-08d4-4d4a-9c6b-89ac72e83acb.mp4)
 
 **Gradient Creator**  
-<img src="https://user-images.githubusercontent.com/24950701/197418568-49eb34c7-45a1-410a-9a73-d234da512e53.mp4" width="150">
+![](https://user-images.githubusercontent.com/24950701/197419261-b2b33671-a7bc-4835-bf7d-f98df5aec8c8.mp4)
 
 **App Actions**  
-<img src="https://user-images.githubusercontent.com/24950701/197418568-49eb34c7-45a1-410a-9a73-d234da512e53.mp4" width="150">
+![](https://user-images.githubusercontent.com/24950701/197419271-d9af88d4-3c56-4671-82fc-923146b81f0d.mp4)
