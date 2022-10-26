@@ -11,7 +11,7 @@ A community driven music recommending and sharing app.
   3) Dart
   4) Spotify API
   5) Apple Music API
-  6) [More API's will be used in the future]
+  6) [More technologies will be added throughout development]
 
 ###### Goals
   1) Further my skills with the __Flutter__ framework and __Dart__ programming language.
