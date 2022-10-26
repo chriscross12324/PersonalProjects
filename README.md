@@ -1,7 +1,7 @@
 # PersonalProjects
 A Showcase of all my released personal projects over the past years. More recent projects are higher on the list (showcase decending by year started)
 
-## [Spectrum]
+## [Spectrum](https://www.linkedin.com/posts/chris-coulthard_community-mobile-desktop-activity-6861842760228585472-Mj-Z?utm_source=share&utm_medium=member_desktop)
 ###### Description
 A community driven music recommending and sharing app.
 
@@ -18,7 +18,8 @@ A community driven music recommending and sharing app.
   2) Design and Create a beautiful Mobile application keeping design, functionality, and accessibility main priorities.
   3) Develop a frictionless user experience that users want to experience rather than feel forced to use.
   4) Expand my skills in Database management and design, ensuring scalability and efficiency.
-  5) Bring together different communities and cultures into one place through the most shared hobbie... Music!
+  5) Learn how to use Web API Endpoints.
+  6) Bring together different communities and cultures into one place through the most shared hobbie... Music!
 
 ###### Year Began
 2021
@@ -60,7 +61,7 @@ Whether you are looking at colours for your next project or just like looking at
 2018
 
 ###### Status
-Finished; Supported (Periodic Bud Fix Updates)
+Finished; Supported (Periodic Bug Fix Updates)
 
 ###### Images
 
