@@ -1,5 +1,5 @@
 # PersonalProjects
-A Showcase of all my released personal projects over the past years.
+A Showcase of all my released personal projects over the past years. More recent projects are higher on the list (showcase decending by year started)
 
 ## [Pebble](https://play.google.com/store/apps/details?id=com.simple.chris.pebble)
 ###### Description
