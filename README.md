@@ -1,10 +1,48 @@
 # PersonalProjects
 A Showcase of all my released personal projects over the past years. More recent projects are higher on the list (showcase decending by year started)
 
-## [Pebble](https://play.google.com/store/apps/details?id=com.simple.chris.pebble)
+## [Spectrum]
 ###### Description
 Whether you are looking at colours for your next project or just like looking at them, Pebble has all the gradients for you!
 
+###### Technologies
+  1) Android Studio
+  2) Flutter
+  3) Dart
+  4) Spotify API
+  5) Apple Music API
+  6) [More API's will be used in the future]
+
+###### Goals
+  1) Further my skills with the __Flutter__ framework and __Dart__ programming language.
+  2) Design and Create a beautiful Mobile application keeping design, functionality, and accessibility main priorities.
+  3) Develop a frictionless user experience that users want to experience rather than feel forced to use.
+  4) Expand my skills in Database management and design, ensuring scalability and efficiency.
+  5) Bring together different communities and cultures into one place through the most shared hobbie... Music!
+
+###### Year Began
+2021
+
+###### Status
+Ongoing; Closed Alpha
+
+###### Images
+
+**Home Page**  
+<img src="https://user-images.githubusercontent.com/24950701/197921898-a0b02f4f-4a5a-48cc-950f-65e1b5bc5b80.jpg" width="150">
+
+**Song Page**  
+<img src="https://user-images.githubusercontent.com/24950701/197922029-7dcac1d2-61d4-4c91-9cca-4660e6326dba.jpg" width="150">
+
+**Settings Page**  
+<img src="https://user-images.githubusercontent.com/24950701/197921953-1738aa47-7b80-4fb2-9a78-de13c07c3d65.jpg" width="150">
+
+-----
+-----
+
+## [Pebble](https://play.google.com/store/apps/details?id=com.simple.chris.pebble)
+###### Description
+Whether you are looking at colours for your next project or just like looking at them, Pebble has all the gradients for you!
 
 ###### Technologies
   1) Android Studio
@@ -12,13 +50,17 @@ Whether you are looking at colours for your next project or just like looking at
   3) XML
   4) Google Firebase
 
-
 ###### Goals
   1) Expand on my understanding of programming concepts
   2) Refine personal UI/UX guidlines
   3) Connect to external databases to sync data among clients
   4) Utilize animations to improve fluidity
 
+###### Year Began
+2018
+
+###### Status
+Finished; Supported (Periodic Bud Fix Updates)
 
 ###### Images
 
@@ -56,18 +98,21 @@ https://user-images.githubusercontent.com/24950701/197419271-d9af88d4-3c56-4671-
 ###### Description
 The classic 'Rock Paper Scissors' game has been brought to Android.
 
-
 ###### Technologies
   1) Android Studio
   2) Java
   3) XML
-
 
 ###### Goals
   1) Learn the fundamentals of programming (if/else, switch, rand, delay, etc.)
   2) Develop very basic User Interface & User Experience skills
   3) Create a simple game that anyone can play and understand
 
+###### Year Began
+2018
+
+###### Status
+Finished; No Longer Supported
 
 ###### Images
 **Initial Release Design**  
