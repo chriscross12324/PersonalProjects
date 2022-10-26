@@ -3,7 +3,7 @@ A Showcase of all my released personal projects over the past years. More recent
 
 ## [Spectrum]
 ###### Description
-Whether you are looking at colours for your next project or just like looking at them, Pebble has all the gradients for you!
+A community driven music recommending and sharing app.
 
 ###### Technologies
   1) Android Studio
