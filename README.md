@@ -1,5 +1,5 @@
 # Personal Projects
-A Showcase of all my released personal projects over the past years. More recent projects are higher on the list (showcase decending by year started)
+A Showcase of all my personal projects over the past years. More recent projects are higher on the list (showcase decending by year started)
 
 ## [Spectrum](https://www.linkedin.com/posts/chris-coulthard_community-mobile-desktop-activity-6861842760228585472-Mj-Z?utm_source=share&utm_medium=member_desktop)
 ###### Description
