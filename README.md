@@ -3,7 +3,7 @@ A Showcase of all my personal projects over the past years. More recent projects
 
 ## [Spectrum [In Development]](https://www.linkedin.com/posts/chris-coulthard_community-mobile-desktop-activity-6861842760228585472-Mj-Z?utm_source=share&utm_medium=member_desktop)
 ###### Description
-"A community driven app for recommending and sharing music". 
+"A community driven app for recommending and sharing music". This projects takes all that I've learned from my past projects, and all that I am currently learning, and packages it into a single idea. The features I decided to forego in my previous projects for not fitting how I wanted them to, debut in this project. Simple ideas and concepts such as User Accounts aren't going to be just for liking people comments, but will deeply integrate into other features that will really drive the "community" aspect of this project.
 
 ###### Technologies
   1) Android Studio
