@@ -6,12 +6,13 @@ A Showcase of all my personal projects over the past years. More recent projects
 "A community driven app for recommending and sharing music". This projects takes all that I've learned from my past projects, and all that I am currently learning, and packages it into a single idea. The features I decided to forego in my previous projects for not fitting how I wanted them to, debut in this project. Simple ideas and concepts such as User Accounts aren't going to be just for liking people's comments, but will deeply integrate into other features that will really drive the "community" aspect of this project.
 
 ###### Technologies
-  1) Android Studio
-  2) Flutter
-  3) Dart
-  4) Spotify API
-  5) Apple Music API
-  6) [More technologies will be added throughout development]
+  1) Android Studio   (IDE)
+  2) Flutter          (Framework)
+  3) Dart             (Language)
+  4) Google Firebase  (Database)
+  5) Spotify API
+  6) Apple Music API
+  7) [More technologies will be added throughout development]
 
 ###### Goals
   1) Further my skills with the __Flutter__ framework and __Dart__ programming language.
