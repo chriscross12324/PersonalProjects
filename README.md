@@ -3,7 +3,7 @@ A Showcase of all my personal projects over the past years. More recent projects
 
 ## [Spectrum [In Development]](https://www.linkedin.com/posts/chris-coulthard_community-mobile-desktop-activity-6861842760228585472-Mj-Z?utm_source=share&utm_medium=member_desktop)
 ###### Description
-A community driven music recommending and sharing app.
+"A community driven app for recommending and sharing music". 
 
 ###### Technologies
   1) Android Studio
@@ -43,7 +43,7 @@ Ongoing; Closed Alpha
 
 ## [Pebble](https://play.google.com/store/apps/details?id=com.simple.chris.pebble)
 ###### Description
-Whether you are looking at colours for your next project or just like looking at them, Pebble has all the gradients for you!
+"Whether you are looking at colours for your next project or just like looking at them, Pebble has all the gradients for you!". This project was my first taste of networking and connecting client applications to a central server. For my second project I wanted to take the basics that I learned from my first project, continue my learning, and to connect people around the world. I wanted to forego user accounts and any advanced user features such as comments and likes, and to focus on creating a platform where people can anonoymously create and share their colourful creations with others that could then use those colours for their own projects.
 
 ###### Technologies
   1) Android Studio
@@ -97,7 +97,7 @@ https://user-images.githubusercontent.com/24950701/197419271-d9af88d4-3c56-4671-
 
 ## [Simple Rock Paper Scissors](https://play.google.com/store/apps/details?id=com.simplegames.chris.rockpaperscissors)
 ###### Description
-The classic 'Rock Paper Scissors' game has been brought to Android.
+"The classic 'Rock Paper Scissors' game has been brought to Android". A simple project that taught me the basics of programming (if/else, for/while loops, functions, random numbers, User Interface Implementation, etc.). The urge to create my own app originated from me looking at apps I used daily, and how I wanted to tweak aspects of them to my own liking, creating my own app let me do that; It also sparked a passion for creating, that would soon become my future career.
 
 ###### Technologies
   1) Android Studio
