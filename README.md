@@ -115,13 +115,13 @@ GitHub Repo: https://github.com/chriscross12324/SimpleRockPaperScissors
   3) Create a simple game that anyone can play and understand
 
 ###### Year Began
-2018
+2017
 
 ###### Status
 Finished; Supports up to Android 13
 
 ###### Images
-**Initial Release Design** - (2018)  
+**Initial Release Design** - (2017)  
 <img src="https://user-images.githubusercontent.com/24950701/197416632-1001cf65-f230-4acd-8461-2c1f504915be.png" width="150">
 
 **First Update** - (2018)  
