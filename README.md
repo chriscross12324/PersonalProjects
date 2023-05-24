@@ -31,13 +31,13 @@ Ongoing; Closed Alpha
 ###### Images
 
 **Home Page**  
-<img src="https://user-images.githubusercontent.com/24950701/197921898-a0b02f4f-4a5a-48cc-950f-65e1b5bc5b80.jpg" width="150">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24950701/240493465-ad727168-c70f-4de0-ab28-53ad54778533.jpg" width="150">
 
 **Song Page**  
-<img src="https://user-images.githubusercontent.com/24950701/197922029-7dcac1d2-61d4-4c91-9cca-4660e6326dba.jpg" width="150">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24950701/240493525-c5928a33-6dd1-4e9c-ad02-da7a83b8153d.jpg" width="150">
 
 **Settings Page**  
-<img src="https://user-images.githubusercontent.com/24950701/197921953-1738aa47-7b80-4fb2-9a78-de13c07c3d65.jpg" width="150">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24950701/240493595-d918091b-c51b-48c9-a851-f3d05906bd27.jpg" width="150">
 
 -----
 -----
