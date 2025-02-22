@@ -22,8 +22,8 @@ A Showcase of all my personal projects over the past years. More recent projects
   5) Learn how to use Web API Endpoints.
   6) Bring together different communities and cultures into one place through the most shared hobbie... Music!
 
-###### Year Began
-2021
+###### Years
+2021 - 2025
 
 ###### Status
 Cancelled; Changed Interests
